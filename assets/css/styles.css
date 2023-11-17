@@ -89,6 +89,18 @@ img{
     height: auto;
 }
 /*======== CLASS CSS ========*/
+.section{
+    padding: 1.5rem 0;
+}
+
+.section-title{
+    font-size: var(--h2-font-size);
+    color: var(--title-color);
+    text-transform: uppercase;
+    letter-spacing: .35rem;
+    text-align: center;
+    margin-bottom: var(--mb-3);
+}
 
 /*======== LAYOUT ========*/
 /*======== NAV ========*/
